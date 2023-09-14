@@ -1,7 +1,7 @@
-## Olá, meu nome é Rodrigo! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-<p align="center">
-    <img alt="Profile Hits Counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{rdrgroma}1212%2Fhit-counter">
-</p>
+## Olá, meu nome é Rodrigo! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">![](https://komarev.com/ghpvc/?username=rdrgroma&style=flat-square&label=Views)![](https://badges.pufler.dev/visits/rdrgroma/rdrgroma?color=black&logo=github&style=flat-square)
+
+- :computer: Atualmente trabalhando no desenvolvimento de experiências com AR/VR
+- :school: Bacharel em Ciências da Computação e Licenciatura em Matemática pela universidade Nove de Julho (UNINOVE)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/rdrgroma/" target="_blank">
@@ -12,6 +12,7 @@
     </a>
 </p>
 
+## Um pouco da minha história
 💼 Tenho experiência de 20 anos trabalhando na área de TI e estou animado para dar um novo passo na minha carreira, migrando de servidores/helpdesk para programação. Meu objetivo final é especializar-me em desenvolvimento backend, pois isso está alinhado com minha experiência anterior e interesses pessoais.
 
 🔥 Durante essa transição, adquiri conhecimentos e habilidades em diversas áreas, incluindo frontend e AR/VR. Tive a oportunidade de participar de projetos empolgantes, onde trabalhei com tecnologias de ponta como PicoVR, HTC Vive, Oculus Quest e desenvolvimento de aplicativos móveis. Além disso, tive a honra de desenvolver um jogo mobile e um aplicativo chamado ÁRBORE Tour Virtual, sendo este último disponível nas lojas do Google e Apple.
@@ -53,12 +54,7 @@
     <img alt="Virtualbox" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 </p>
 
-<p align="center">
-<img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgroma&theme=dark">
-</p>
-
-<p align="center">
+<img align="left" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgroma&theme=dark">
     <a href="https://github.com/rdrgroma/github-readme-stats" target="_blank">
         <img alt="rdrgroma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rdrgroma&theme=dark">
     </a>
-</p>
